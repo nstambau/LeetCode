@@ -1,3 +1,5 @@
+##  https://leetcode.com/problems/is-graph-bipartite/
+
 class Solution:
     def isBipartite(self, graph: List[List[int]]) -> bool:
 
